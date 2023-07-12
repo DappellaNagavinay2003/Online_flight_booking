@@ -1,4 +1,4 @@
-# online_flight_booking_managment 
+# Online Flight Booking Managment.
 This project did by me according to the DevRev given task.
 
 
