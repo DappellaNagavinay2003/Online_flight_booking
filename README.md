@@ -3,13 +3,13 @@
 
 
 # BackEnd
-*SQL ( XAMP )
-*PHP
+1.SQL ( XAMP )<br>
+2.PHP<br>
 
 # FrontEnd
-*HTML
-*CSS
-*JS
+1.HTML<br>
+2.CSS<br>
+3.JS<br>
 
 # FEATURES
 
