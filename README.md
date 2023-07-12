@@ -1,15 +1,15 @@
 # Online Flight Booking Managment.
-This project did by me according to the DevRev given task.
+*This project did by me according to the DevRev given task.
 
 
 # BackEnd
-SQL ( XAMP )
-PHP
+*SQL ( XAMP )
+*PHP
 
 # FrontEnd
-HTML
-CSS
-JS
+*HTML
+*CSS
+*JS
 
 # FEATURES
 
@@ -19,8 +19,8 @@ JS
 4. Only Admin can login with his credentials to change the details of the booking of the user.
 
 # Details 
-DappellaNagaVinay
-VTU 16891
+DappellaNagaVinay<br>
+VTU 16891<br>
 Veltech University
 
 
