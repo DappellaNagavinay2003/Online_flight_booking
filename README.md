@@ -1,4 +1,4 @@
-# Online Flight Booking Managment.
+ # Online Flight Booking Managment.
 This project did by me according to the **DevRev** given task.
 
 
@@ -19,7 +19,7 @@ This project did by me according to the **DevRev** given task.
 4. Only Admin can login with his credentials to change the details of the booking of the user.
 
 # Details 
-DappellaNagaVinay<br>
+**Dappella Naga Vinay**<br>
 VTU 16891<br>
 Veltech University
 
